@@ -1,6 +1,7 @@
 from typing import List
 
 
+# Funcion que retorna True si el input existe en la lista lista_heroes, en caso contrario, retorna False y levanta una excepcion.
 def heroe_valido(heroe: str) -> bool:
     lista_heroes: List[str] = [
         "abaddon",

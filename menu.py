@@ -1,3 +1,4 @@
+# Se define el menu de opciones.
 def mostrar_menu():
     print("\n1. Agregar héroes.")
     print("2. Ver héroes agregados.")
