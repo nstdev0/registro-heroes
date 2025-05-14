@@ -1,6 +1,4 @@
-# 🧪 BONUS – Mini Proyecto Final de Etapa 3
-
-# 🎯 Objetivo: Crear un sistema de registro de héroes, dividido en módulos, que:
+# Crear un sistema de registro de héroes, dividido en módulos, que:
 
 #     Reciba nombre y rol del héroe (input)
 
